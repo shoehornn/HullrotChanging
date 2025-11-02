@@ -30,8 +30,8 @@
   - type: Explosive
     explosionType: Default
     # same as the standard grenade, but those numbers were also just picked out of a hat.
-    maxIntensity: 10
-    intensitySlope: 3
+    maxIntensity: 150
+    intensitySlope: 45
     totalIntensity: 120 # about a ~4 tile radius
   - type: ExplodeOnTrigger
   - type: Destructible
