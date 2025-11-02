@@ -23,7 +23,7 @@
     explosionType: Default
     totalIntensity: 750
     intensitySlope: 75
-    maxIntensity: 90
+    maxIntensity: 1350
     canCreateVacuum: false
   - type: Appearance
   - type: TimerTriggerVisuals
