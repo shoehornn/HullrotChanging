@@ -28,11 +28,11 @@
     sprite: Objects/Devices/payload.rsi
     state: payload-explosive-armed
   - type: Explosive
-    explosionType: Default
+    explosionType: Fragmentation
     # same as the standard grenade, but those numbers were also just picked out of a hat.
-    maxIntensity: 400
-    intensitySlope: 30
-    totalIntensity: 125 # about a ~4 tile radius
+    maxIntensity: 220
+    intensitySlope: 6
+    totalIntensity: 35 # about a ~4 tile radius
   - type: ExplodeOnTrigger
   - type: Destructible
     thresholds:
