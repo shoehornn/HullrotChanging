@@ -200,7 +200,7 @@
     explosionType: Fragmentation
     maxIntensity: 30
     intensitySlope: 8
-    totalIntensity: 340
+    totalIntensity: 450
     canCreateVacuum: false
   - type: TimerTriggerVisuals
     primingSound:
@@ -383,9 +383,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 90
-    totalIntensity: 4500
+    maxIntensity: 300
+    intensitySlope: 4
+    totalIntensity: 27
     canCreateVacuum: false
   - type: TimerTriggerVisuals
     primingSound:
@@ -411,9 +411,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 60
-    totalIntensity: 3000
+    maxIntensity: 30
+    intensitySlope: 4
+    totalIntensity: 250
     canCreateVacuum: false
   - type: DamageOnHit
     damage:
@@ -493,9 +493,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 60
-    totalIntensity: 1500
+    maxIntensity: 20
+    intensitySlope: 9
+    totalIntensity: 250
     canCreateVacuum: false
   - type: EmitSoundOnPickup
     sound: /Audio/_Crescent/Weapons/Grenades/grab1.ogg

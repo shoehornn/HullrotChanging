@@ -22,7 +22,7 @@
   - type: Explosive # Weak explosion in a very small radius. Doesn't break underplating.
     explosionType: Default
     totalIntensity: 1000
-    intensitySlope: 75
+    intensitySlope: 50
     maxIntensity: 180
     canCreateVacuum: false
   - type: Appearance

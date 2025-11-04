@@ -30,9 +30,9 @@
   - type: Explosive
     explosionType: Default
     # same as the standard grenade, but those numbers were also just picked out of a hat.
-    maxIntensity: 180
-    intensitySlope: 90
-    totalIntensity: 1800 # This makes the star shaped blast. Which, spans 5 tiles in diameter. 
+    maxIntensity: 200
+    intensitySlope: 60
+    totalIntensity: 1600  
     canCreateVacuum: false
   - type: ExplodeOnTrigger
   - type: Destructible
