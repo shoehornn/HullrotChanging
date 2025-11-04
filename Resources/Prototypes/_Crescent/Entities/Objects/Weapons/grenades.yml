@@ -198,9 +198,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 45
-    totalIntensity: 2550
+    maxIntensity: 30
+    intensitySlope: 8
+    totalIntensity: 340
     canCreateVacuum: false
   - type: TimerTriggerVisuals
     primingSound:
@@ -226,9 +226,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 90
-    totalIntensity: 1875
+    maxIntensity: 27
+    intensitySlope: 9
+    totalIntensity: 270   
     canCreateVacuum: false
   - type: TimerTriggerVisuals
     primingSound:
@@ -281,9 +281,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive
     explosionType: Fragmentation
-    maxIntensity: 1500
-    intensitySlope: 60
-    totalIntensity: 3000
+    maxIntensity: 27
+    intensitySlope: 6
+    totalIntensity: 360
     canCreateVacuum: false
   - type: TimerTriggerVisuals
     primingSound:

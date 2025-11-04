@@ -21,9 +21,9 @@
   - type: ExplodeOnTrigger
   - type: Explosive # Weak explosion in a very small radius. Doesn't break underplating.
     explosionType: Default
-    totalIntensity: 750
+    totalIntensity: 1000
     intensitySlope: 75
-    maxIntensity: 1350
+    maxIntensity: 180
     canCreateVacuum: false
   - type: Appearance
   - type: TimerTriggerVisuals
